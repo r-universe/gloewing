@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "fastFMM"]
+	path = fastFMM
+	url = https://github.com/gloewing/fastfmm
 [submodule "sMTL"]
 	path = sMTL
 	url = https://github.com/cran/sMTL
