@@ -1,13 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/gloewing/gloewing.r-universe.dev
 	branch = HEAD
 [submodule "fastFGEE"]
 	path = fastFGEE
-	url = https://github.com/gloewing/fastfgee
-[submodule "sMTL"]
-	path = sMTL
-	url = https://github.com/cran/sMTL
-[submodule "studyStrap"]
-	path = studyStrap
-	url = https://github.com/cran/studyStrap
+	url = https://github.com/gloewing/fastFGEE
